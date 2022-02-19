@@ -4,6 +4,7 @@ mat-grid-tile {
  .title{
    text-align: left;
    letter-spacing: .43mm;
+   color: #52688F;
  }
 
 .reflect {
